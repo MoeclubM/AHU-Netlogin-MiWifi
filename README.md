@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/github/downloads/MoeclubM/AHU-Netlogin-MiWifi/total?color=ea8f14&label=users" alt="">
 <img src="https://img.shields.io/github/license/MoeclubM/AHU-Netlogin-MiWifi" alt="">
 </p>
- 
+
+## Why 有线
+实测龙河无线很多地方还是wifi4且均无ipv6 又因为ipv4限速，ipv6为校园网500m对等因此寝室下游戏只能这么整
 
 ## 文件格式
 - ahulogin.sh 登录脚本，延迟8s执行
